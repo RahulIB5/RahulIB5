@@ -50,13 +50,13 @@ Welcome to my GitHub profile! I'm a student based in Bengaluru, deeply passionat
 ## Social Links 🌐
 
 - 🌍 **Location**: Bengaluru, India
-- 📧 **Email**: [Email](rahulib2005@gmail.com)
+- 📧 **Email**: rahulib2005@gmail.com
 - 💼 **LinkedIn**: [LlikedIn](https://www.linkedin.com/in/rahul-i-basaragi-05886829b/)
 - ✖️ **Twitter**: [X](https://x.com/rahul_ib9880)
 - 📷 **Instagram**: [IG](https://www.instagram.com/rahulbasaragiofficial/)
 
-
-Bye, Bye, Bye!
+---
+### Bye, Bye, Bye!
 
 
 ![Animated React Logo](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
