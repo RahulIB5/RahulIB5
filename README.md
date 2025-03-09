@@ -1,6 +1,6 @@
 # Hi there, I'm Rahul 👋
 
-🌤 **Full Stack Developer | Aspiring BlockChain Enthusiast**
+👽 **Full Stack Developer | Aspiring BlockChain Enthusiast**
 
 Welcome to my GitHub profile! I'm a student based in Bengaluru, deeply passionate about web development and blockchain technology. I like exploring new cutting-edge technologies and collaborating on innovative projects that push boundaries.
 
