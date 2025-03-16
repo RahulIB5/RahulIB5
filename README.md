@@ -2,12 +2,12 @@
 
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
-    <td width="70%" style="border: none;">
+    <td width="65%" style="border: none;">
       <h3>👽 <strong>Full Stack Developer | Aspiring BlockChain Enthusiast</strong></h3>
       <br>
       <p>Welcome to my GitHub profile! I'm a student based in Bengaluru, deeply passionate about web development and blockchain technology. I like exploring new cutting-edge technologies and collaborating on innovative projects that push boundaries.</p>
     </td>
-    <td width="30%" align="center" style="border: none;">
+    <td width="35%" align="center" style="border: none;">
       <img src="https://camo.githubusercontent.com/86128cb7701ab7135d785931a27fdc10011f5043abf5c4f9671fbd958fa50298/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578637a6777593270794e5731345a5870785a6e4a68597a4d794d3230794e334e704e326c74626a687361334e73633359774d47557965695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6475334a336358797a686a3735494f6776412f67697068792e77656270" alt="Github Logo" width="250" height="250"/>
     </td>
   </tr>
