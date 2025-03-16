@@ -1,17 +1,8 @@
 # Hi there, I'm Rahul 👋
 
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td width="65%" style="border: none;">
-      <h3>👽 <strong>Full Stack Developer | Aspiring BlockChain Enthusiast</strong></h3>
-      <br>
-      <p>Welcome to my GitHub profile! I'm a student based in Bengaluru, deeply passionate about web development and blockchain technology. I like exploring new cutting-edge technologies and collaborating on innovative projects that push boundaries.</p>
-    </td>
-    <td width="35%" align="center" style="border: none;">
-      <img src="https://camo.githubusercontent.com/86128cb7701ab7135d785931a27fdc10011f5043abf5c4f9671fbd958fa50298/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578637a6777593270794e5731345a5870785a6e4a68597a4d794d3230794e334e704e326c74626a687361334e73633359774d47557965695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6475334a336358797a686a3735494f6776412f67697068792e77656270" alt="Github Logo" width="250" height="250"/>
-    </td>
-  </tr>
-</table>
+## 👽 **Full Stack Developer | BlockChain Enthusiast**
+
+Welcome to my GitHub profile! I'm a student based in Bengaluru, deeply passionate about web development and blockchain technology. I like exploring new cutting-edge technologies and collaborating on innovative projects that push boundaries.
 
 ---
 
@@ -27,7 +18,7 @@
 ## About Me 🌤
 
 - 🚀 Coding since 2024
-- 🌱 Currently learning **Next.JS, Blockchain** to level up my skills
+- 🌱 Currently learning **Next.JS, Typescript, Blockchain** to level up my skills
 - 🤝 Open to collaboration on Web Development and Blockchain projects
 
 ---
@@ -35,13 +26,15 @@
 ## Skills 🛠️
 
 ### Programming Languages
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Motoko](https://img.shields.io/badge/-Motoko-000000?style=for-the-badge&logo=motoko&logoColor=white) 
+![Motoko](https://img.shields.io/badge/-Motoko-6c3be4?style=for-the-badge&logo=motoko&logoColor=white) 
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -58,11 +51,16 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Other Tools
-![Unix](https://img.shields.io/badge/-Unix-000000?style=for-the-badge&logo=linux&logoColor=white)
-![ICP](https://img.shields.io/badge/-ICP-000000?style=for-the-badge&logo=icp&logoColor=white) 
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-c6fb01?style=for-the-badge&logo=pycharm&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Unix](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ICP](https://img.shields.io/badge/-ICP-6c3be4?style=for-the-badge&logo=internet-computer&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 
 ### Design Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -74,10 +72,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RahulIB5&color=blue&style=flat-square)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulIB5&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RahulIB5&theme=radical)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulIB5&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=RahulIB5&theme=radical" alt="GitHub Streak"/>
+</div>
 
 ---
 
-## From [Rahul](https://github.com/RahulIB5/)
+<div align="left">
+  <h3>Bye, Bye, Bye</h3>
+       <img src="https://camo.githubusercontent.com/86128cb7701ab7135d785931a27fdc10011f5043abf5c4f9671fbd958fa50298/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578637a6777593270794e5731345a5870785a6e4a68597a4d794d3230794e334e704e326c74626a687361334e73633359774d47557965695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6475334a336358797a686a3735494f6776412f67697068792e77656270" alt="Github Logo"/>
+</div>
