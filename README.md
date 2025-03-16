@@ -26,7 +26,7 @@
 
 ## About Me 🌤
 
-- 🚀 Coding since 2021
+- 🚀 Coding since 2024
 - 🌱 Currently learning **Next.JS, Blockchain** to level up my skills
 - 🤝 Open to collaboration on Web Development and Blockchain projects
 
