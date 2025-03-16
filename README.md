@@ -74,8 +74,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RahulIB5&color=blue&style=flat-square)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulIB5&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulIB5&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=RahulIB5&theme=radical)
