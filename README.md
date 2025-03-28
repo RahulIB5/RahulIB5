@@ -4,6 +4,8 @@
 
 Welcome to my GitHub profile! I'm a student based in Bengaluru, deeply passionate about web development and blockchain technology. I like exploring new cutting-edge technologies and collaborating on innovative projects that push boundaries.
 
+![Profile Views](https://komarev.com/ghpvc/?username=RahulIB5&color=blue&style=flat-square)
+
 ---
 
 ## Let's Connect! 🌐
@@ -70,7 +72,6 @@ Welcome to my GitHub profile! I'm a student based in Bengaluru, deeply passionat
 
 ## GitHub Stats 📊
 
-![Profile Views](https://komarev.com/ghpvc/?username=RahulIB5&color=blue&style=flat-square)
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulIB5&layout=compact&theme=radical" alt="Top Languages"/>
