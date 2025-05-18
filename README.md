@@ -1,6 +1,6 @@
 # Hi there, I'm Rahul 👋
 
-## 👽 **Full Stack Developer | BlockChain Enthusiast**
+## **Full Stack Developer**
 
 Welcome to my GitHub profile! I'm a student based in Bengaluru, deeply passionate about web development and blockchain technology. I like exploring new cutting-edge technologies and collaborating on innovative projects that push boundaries.
 
@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm a student based in Bengaluru, deeply passionat
 ## About Me 🌤
 
 * 🚀 Coding since 2024
-* 🌱 Currently learning **Next.JS, Typescript, Blockchain** to level up my skills
-* 🤝 Open to collaboration on Web Development and Blockchain projects
+* 🌱 Currently learning **Next.JS, Blockchain, DSA** to level up my skills
+* 🤝 Open to collaboration on Web Development projects.
 
 ---
 
@@ -39,17 +39,16 @@ Welcome to my GitHub profile! I'm a student based in Bengaluru, deeply passionat
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Motoko](https://img.shields.io/badge/-Motoko-6c3be4?style=for-the-badge\&logo=motoko\&logoColor=white)
 
-### Frontend Development
+### Development
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge\&logo=react\&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![EJS](https://img.shields.io/badge/-EJS-232F3E?style=for-the-badge&logo=ejs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-### Backend Development
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
 ### Databases
 
@@ -97,5 +96,8 @@ Welcome to my GitHub profile! I'm a student based in Bengaluru, deeply passionat
        <img src="https://camo.githubusercontent.com/86128cb7701ab7135d785931a27fdc10011f5043abf5c4f9671fbd958fa50298/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578637a6777593270794e5731345a5870785a6e4a68597a4d794d3230794e334e704e326c74626a687361334e73633359774d47557965695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6475334a336358797a686a3735494f6776412f67697068792e77656270" alt="Github Logo"/>
 </div>
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+<p align="right">
+  🟡<br/>🔴
 </p>
