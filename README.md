@@ -2,7 +2,7 @@
 
 ## **Full Stack Developer**
 
-Welcome to my GitHub profile! I'm a student based in Bengaluru, deeply passionate about web development and blockchain technology. I like exploring new cutting-edge technologies and collaborating on innovative projects that push boundaries.
+Welcome to my GitHub profile! I'm a student based in Bengaluru, deeply passionate about software development. I like exploring new cutting-edge technologies and collaborating on innovative projects that push boundaries.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RahulIB5\&color=blue\&style=flat-square)
 
