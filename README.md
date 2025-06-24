@@ -67,7 +67,6 @@ Welcome to my GitHub profile! I'm a student deeply passionate about software dev
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Unix](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![ICP](https://img.shields.io/badge/-ICP-6c3be4?style=for-the-badge\&logo=internet-computer\&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
