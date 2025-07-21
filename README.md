@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a student deeply passionate about software dev
 ## About Me 🌤
 
 * 🚀 Coding since 2024
-* 🌱 Currently learning **Next.JS, Blockchain, DSA** to level up my skills
+* 🌱 Currently learning **DSA, AI** to level up my skills
 * 🤝 Open to collaboration on Web Development projects.
 
 ---
