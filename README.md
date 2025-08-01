@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a student deeply passionate about software dev
 
 * 🚀 Coding since 2024
 * 🌱 Currently learning **DSA, AI** to level up my skills
-* 🤝 Open to collaboration on Web Development and AIML projects.
+* 🤝 Open to collaboration on Web Development projects.
 
 ---
 
