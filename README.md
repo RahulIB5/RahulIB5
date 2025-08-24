@@ -82,8 +82,8 @@ Welcome to my GitHub profile! I'm a student deeply passionate about software dev
 ## GitHub Stats 📊
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulIB5&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://streak-stats.demolab.com?user=RahulIB5&theme=radical" alt="GitHub Streak"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulIB5&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=RahulIB5&theme=radical" alt="GitHub Streak"/> -->
 </div>
 
 ---
