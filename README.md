@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm a student deeply passionate about software dev
 
 ## About Me 🌤
 
-* 🚀 Coding since 2019
 * 🌱 Currently doing DSA
 * 🤝 Open to collaboration on Full Stack Development projects.
 
