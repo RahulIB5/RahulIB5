@@ -1,4 +1,4 @@
-# Vincit qui se vincit⚡
+# Vincit qui se vincit
 
 # Hi there, I'm Rahul 👋
 
