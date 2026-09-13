@@ -1,5 +1,3 @@
-<h1 align="center">Vincit qui se vincit⚡</h1>
-
 # Hi there, I'm Rahul 👋
 
 ## **Software Developer**
